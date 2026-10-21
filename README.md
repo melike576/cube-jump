@@ -6,5 +6,7 @@ Unity 6 ile yapılmış 2D platform oyunu.
 ## 📸 Ekran Görüntüsü | Screenshot
 
 ![Ana menü](giris-ekranı.png)
-![Oyun ekranı](oyun-ekranı.png)
 ![Karakter](karakter-ekranı.png)
+![Oyun ekranı](oyun-ekranı.png)
+
+
